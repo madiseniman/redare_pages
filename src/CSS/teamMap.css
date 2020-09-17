@@ -1,0 +1,28 @@
+.TeamMapDiv {
+    padding-top: 500px;
+}
+
+.Map {
+    position: absolute;
+    width: 626px;
+    height: 311px;
+    left: 682px;
+    top: 1298px;
+}
+
+.SwedenLines {
+    position: absolute;
+    width: 787px;
+    height: 241.86px;
+    left: 246px;
+    top: 1229px;
+}
+
+.NonSwedenLines {
+    position: absolute;
+    width: 647.94px;
+    height: 374.36px;
+    left: 568px;
+    top: 1205px;
+}
+

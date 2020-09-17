@@ -1,0 +1,111 @@
+.carousel {
+    position: absolute;
+    top: 555px;
+    width: 100%;
+}
+
+.keyDiff {
+    width: 101px;
+    height: 95px;
+    left: -32px;
+    top: 556px;
+}
+
+.experts {
+    width: 167px;
+    height: 92px;
+    left: 84px;
+    top: 558px;
+}
+
+.productRecommend {
+    width: 117px;
+    height: 95px;
+    left: 263px;
+    top: 555px;
+    padding-left: 30px;
+}
+
+.productInfoAlert {
+    width: 96px;
+    height: 95px;
+    left: 396px;
+    top: 555px;
+    padding-left: 30px;
+
+}
+
+.product {
+    width: 73px;
+    height: 94px;
+    left: 502px;
+    top: 556px;
+    padding-left: 25px;
+}
+
+.greenwashing {
+    width: 175px;
+    height: 94px;
+    left: 589px;
+    top: 556px;
+}
+
+.expertGlass {
+    padding-left: 50px;
+    width: 94px;
+    height: 92px;
+    left: 777px;
+    top: 558px;
+}
+
+.productRanking {
+    width: 63px;
+    height: 95px;
+    left: 885px;
+    top: 555px;
+    padding-left: 30px;
+}
+
+.externalData {
+    width: 118px;
+    height: 95px;
+    left: 966px;
+    top: 555px;
+}
+
+.calibrationWeight {
+    width: 56px;
+    height: 94px;
+    left: 1090px;
+    top: 556px;
+    padding-left: 30px;
+}
+
+.keyDiff2 {
+    width: 113px;
+    height: 92px;
+    left: 1165px;
+    top: 558px;
+}
+
+.redBottle {
+    width: 54px;
+    height: 94px;
+    left: 1302px;
+    top: 556px;
+    padding-left: 30px;
+}
+
+.userData {
+    width: 93px;
+    height: 94px;
+    left: 1382px;
+    top: 556px;
+}
+
+.bananas {
+    width: 134px;
+    height: 94px;
+    left: 1488px;
+    top: 556px;
+}
